@@ -1,1 +1,1 @@
-# card_trick_python
+# Python console game
