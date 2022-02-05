@@ -1,4 +1,4 @@
-# Python console game
+# A card trick console game in Python
 
 
 React version can be found [Here](https://github.com/Azamat-Shogen/c_game) <br />
