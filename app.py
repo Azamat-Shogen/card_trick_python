@@ -15,8 +15,6 @@ def valid_input_check(input_val):
 # TODO: GAME LOOP
 def play_game():
     deck = Deck()
-    deck.initial_deck_setup()
-    deck.shuffle_deck()
 
     print("\nHello adventurer! Please pick one card, and I'm going to try to guess it.\n"
           "But i need a little help from you.")

@@ -9,6 +9,8 @@ class Deck:
         self.cards = []
         self.ranks = ["5", "6", "7", "8", "9", "J", "Q", "K", "A"]
         self.suits = ["♦", "♥", "♠", "♣"]
+        self.initial_deck_setup()
+        self.shuffle_deck()
 
     def initial_deck_setup(self):
         temp_cards = []
